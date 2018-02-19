@@ -5,11 +5,13 @@ Feature1 10:22
 proj1feat2 10:29
 dev
 
-<<<<<<< HEAD
 Develop 02142018
-=======
+
 Release 1 02/14/2018
->>>>>>> release/Rlease_1
+
 Release 2
 
 Release 3
+
+02132018
+
